@@ -13,6 +13,8 @@
 - **December 10, 2025**: Updated `sidebars.ts` to include "Week 1-2: Introduction to Physical AI" in the course navigation.
 - **December 10, 2025**: Created `docs/week-03-05-ros2-fundamentals.md` with content for Weeks 3-5.
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 3-5: ROS 2 Fundamentals" in the course navigation.
+- **December 10, 2025**: Created `docs/week-06-07-robot-simulation.md` with content for Weeks 6-7.
+- **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 6-7: Robot Simulation with Gazebo" in the course navigation.
 
 ## Phase 4: Deployment & Finalization
 

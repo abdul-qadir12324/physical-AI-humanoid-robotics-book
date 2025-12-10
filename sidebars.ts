@@ -27,6 +27,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'week-01-02-introduction',
         'week-03-05-ros2-fundamentals',
+        'week-06-07-robot-simulation',
       ],
     },
   ],
