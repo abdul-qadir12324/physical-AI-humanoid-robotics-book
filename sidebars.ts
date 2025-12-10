@@ -30,6 +30,7 @@ const sidebars: SidebarsConfig = {
         'week-06-07-robot-simulation',
         'week-08-10-nvidia-isaac-platform',
         'week-11-12-humanoid-robot-development',
+        'week-13-conversational-robotics',
       ],
     },
   ],

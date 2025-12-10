@@ -19,6 +19,8 @@
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 8-10: NVIDIA Isaac Platform" in the course navigation.
 - **December 10, 2025**: Created `docs/week-11-12-humanoid-robot-development.md` with content for Weeks 11-12.
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 11-12: Humanoid Robot Development" in the course navigation.
+- **December 10, 2025**: Created `docs/week-13-conversational-robotics.md` with content for Week 13.
+- **December 10, 2025**: Updated `sidebars.ts` to include "Week 13: Conversational Robotics" in the course navigation.
 
 ## Phase 4: Deployment & Finalization
 
