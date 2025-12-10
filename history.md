@@ -15,6 +15,8 @@
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 3-5: ROS 2 Fundamentals" in the course navigation.
 - **December 10, 2025**: Created `docs/week-06-07-robot-simulation.md` with content for Weeks 6-7.
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 6-7: Robot Simulation with Gazebo" in the course navigation.
+- **December 10, 2025**: Created `docs/week-08-10-nvidia-isaac-platform.md` with content for Weeks 8-10.
+- **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 8-10: NVIDIA Isaac Platform" in the course navigation.
 
 ## Phase 4: Deployment & Finalization
 
