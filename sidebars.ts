@@ -29,6 +29,7 @@ const sidebars: SidebarsConfig = {
         'week-03-05-ros2-fundamentals',
         'week-06-07-robot-simulation',
         'week-08-10-nvidia-isaac-platform',
+        'week-11-12-humanoid-robot-development',
       ],
     },
   ],

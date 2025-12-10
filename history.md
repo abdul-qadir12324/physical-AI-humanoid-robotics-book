@@ -17,6 +17,8 @@
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 6-7: Robot Simulation with Gazebo" in the course navigation.
 - **December 10, 2025**: Created `docs/week-08-10-nvidia-isaac-platform.md` with content for Weeks 8-10.
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 8-10: NVIDIA Isaac Platform" in the course navigation.
+- **December 10, 2025**: Created `docs/week-11-12-humanoid-robot-development.md` with content for Weeks 11-12.
+- **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 11-12: Humanoid Robot Development" in the course navigation.
 
 ## Phase 4: Deployment & Finalization
 
