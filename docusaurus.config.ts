@@ -69,6 +69,8 @@ const config: Config = {
   ],
 
   themeConfig: {
+    // Enable built-in local search
+    algolia: false,
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {

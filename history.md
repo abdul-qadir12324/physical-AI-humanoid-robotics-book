@@ -26,3 +26,4 @@
 
 - **December 10, 2025**: Updated `docusaurus.config.ts` for GitHub Pages deployment (URL, baseUrl, organization/project name, site titles, navbar links, edit URLs).
 - **December 10, 2025**: Created `.github/workflows/deploy.yml` for GitHub Actions to automate Docusaurus deployment to GitHub Pages.
+- **December 10, 2025**: Enabled Docusaurus built-in local search by configuring `docusaurus.config.ts`.
