@@ -13,3 +13,8 @@
 - **December 10, 2025**: Updated `sidebars.ts` to include "Week 1-2: Introduction to Physical AI" in the course navigation.
 - **December 10, 2025**: Created `docs/week-03-05-ros2-fundamentals.md` with content for Weeks 3-5.
 - **December 10, 2025**: Updated `sidebars.ts` to include "Weeks 3-5: ROS 2 Fundamentals" in the course navigation.
+
+## Phase 4: Deployment & Finalization
+
+- **December 10, 2025**: Updated `docusaurus.config.ts` for GitHub Pages deployment (URL, baseUrl, organization/project name, site titles, navbar links, edit URLs).
+- **December 10, 2025**: Created `.github/workflows/deploy.yml` for GitHub Actions to automate Docusaurus deployment to GitHub Pages.
